@@ -1,4 +1,4 @@
-
+include("robot.jl")
 include("functions.jl")
 
 r = field_6()
